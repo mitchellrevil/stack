@@ -1,0 +1,8 @@
+node_modules
+.venv
+.tmp
+dist
+package-lock.json
+frontend/src/components/ui
+frontend/src/hooks/use-mobile.ts
+backend/requirements*.txt

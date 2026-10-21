@@ -1,0 +1,4 @@
+-r requirements.txt
+
+# Code formatting and linting.
+ruff==0.17.1
